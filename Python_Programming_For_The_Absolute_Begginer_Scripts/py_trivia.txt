@@ -1,0 +1,28 @@
+Functions
+Beginning Functions
+What key word is used to begin a function?
+for
+def
+while
+main
+2
+def begins the definition of a function.
+2
+Step Value Functions
+What are step value functions?
+Functions you need to step away from.
+Functions a step above basic IO
+Functions that contain an iterator (min, max, increment)
+There is no such thing.
+3
+Step functions are functions that contain an iterative loop.
+4
+That's Gonna Cost Ya
+Which of the following is not a basic data type?
+Int (integer)
+Float
+Double 
+String
+4
+Strings are actually objects.
+1
