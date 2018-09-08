@@ -3,7 +3,6 @@ names = ["Evan", "Kellee", "David", "Thao", "Leslie", "Brett", "Emery", "Oogleth
 for name in names:
     if len(name) > 5:
         print(len(name))
-        print(name.lower().find('n'))
     if "n" in name or "N" in name:
         print(name)
 
